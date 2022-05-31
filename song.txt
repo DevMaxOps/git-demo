@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 Sword and spear
 Wall of shields
 Standing strong
@@ -7,4 +10,35 @@ Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
------------------------------
+----------------------------
+=======
+sword and spear	
+wall of shields
+standing strong
+on this their chosen battlfeild
+
+Form the lines
+Shield by shield
+
+some changes
+>>>>>>> 9a61dcccb122d0a5da6c23dbe567916610dd20b0
+=======
+sword and spear	
+wall of shields
+standing strong
+on this their chosen battlfeild
+
+
+Form the lines
+Shield by shield
+>>>>>>> parent of b37af4c (finish 2nd couplet)
+=======
+sword and spear	
+wall of shields
+standing strong
+on this their chosen battlfeild
+
+
+Form the lines
+Shield by shield
+>>>>>>> parent of b37af4c (finish 2nd couplet)
